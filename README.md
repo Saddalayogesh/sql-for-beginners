@@ -61,7 +61,6 @@ sql-for-beginners/
 
 - 🗄️ SQL
 - 🐬 MySQL Basics
-- 🐘 PostgreSQL Basics
 - 🌿 Git & GitHub
 
 ---
